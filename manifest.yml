@@ -1,0 +1,7 @@
+---
+applications:
+- name: credhu-demo
+  path: target/credhubdemo-0.0.1-SNAPSHOT.jar
+  env:
+    SPRING_CREDHUB_URL: https://credhub.service.cf.internal:8844
+
