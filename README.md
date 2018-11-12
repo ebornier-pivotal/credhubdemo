@@ -1,6 +1,6 @@
 # Run the credhubdemo
 
-This demo uses spring-credhub backed by a credhub infrastructure to inject credentials.
+This demo uses spring annotation properties backed by a credhub infrastructure to inject credentials.
 It assumes you have deployed https://docs.pivotal.io/credhub-service-broker/
 
 # Create the service
